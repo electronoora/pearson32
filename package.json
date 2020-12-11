@@ -1,0 +1,27 @@
+{
+  "name": "pearson32",
+  "version": "1.0.1",
+  "description": "Module for mapping 32bit unsigned integers into pretty short URLs using Pearson hashes",
+  "main": "pearson32.js",
+  "scripts": {
+    "test": "node scripts/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/electronoora/pearson32.git"
+  },
+  "keywords": [
+    "pearson",
+    "hash",
+    "\"galois",
+    "field\"",
+    "\"short",
+    "url\""
+  ],
+  "author": "Noora Halme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/electronoora/pearson32/issues"
+  },
+  "homepage": "https://github.com/electronoora/pearson32#readme"
+}
